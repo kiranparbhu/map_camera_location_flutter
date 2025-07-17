@@ -227,7 +227,7 @@ class _MapCameraLocationState extends State<MapCameraLocation> {
                                                     urlTemplate:
                                                         'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
                                                     userAgentPackageName:
-                                                        'com.example.app',
+                                                        'com.setu.csr_project',
                                                     minZoom: 12,
                                                   ),
                                                   CurrentLocationLayer(
